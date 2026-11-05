@@ -1,0 +1,10 @@
+{
+  "description": "Discover music with friends through shared playlists, personalized mood and genre settings, and feedback that refines recommendations for every session.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
